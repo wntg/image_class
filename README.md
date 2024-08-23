@@ -1,0 +1,11 @@
+图像分类通用
+数据集构建：
+  phase1-
+      train_imgs
+      test_imgs
+      train_label.txt
+        img_name,target
+        3381ccbc4df9e7778b720d53a2987014.jpg,1
+      test_label.txt
+        img_name
+        3381ccbc4df9e7778b720d53a2987014.jpg
